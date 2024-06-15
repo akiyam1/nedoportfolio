@@ -92,13 +92,9 @@ footer {
     object-fit: cover;
   }
   @media (max-width: 768px) {
-    .skills-list {
+    .naviki {
         flex-direction: column;
         align-items: center;
     }
 
-    .project-card {
-        margin: 10px;
-        width: 90%;
-    }
 }
